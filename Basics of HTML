@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>basics of HTML</title>
+</head>
+<body>
+    <h1>Basics to HTML</h1>
+    <hr>
+    <h2>What is HTML?</h2>
+    <P>HTML is an Acronym for Hyper Text Mark-up Langauge. This means its not exactly a programming language but a Mark-up langauge.</P>
+    <p>HTML is 1 of 3 things usee dmainly for creating things like websites and such. The other 2 are CSS and JS which are also both acrnyms for Cascading Style Sheets and JavaScript.</p>
+    <h2> What are the uses of HTML, CSS and JS?</h2>
+    <ul>
+        <li>HTML:</li>
+        <ul>
+            <li>HTML is basically the foundation of a website.</li>
+        </ul>
+        <li>CSS:</li>
+        <p>CSS is basically the design of a website.</p>
+        <li>JS</li>
+        <p>JS is basically the functionality of a website.</p>
+    </ul>
+</body>
+</html>
